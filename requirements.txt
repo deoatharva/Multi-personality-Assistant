@@ -1,0 +1,5 @@
+streamlit
+ChatPromptTemplate
+HuggingFaceEndpoint
+os
+load_dotenv
